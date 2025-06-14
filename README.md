@@ -1,2 +1,2 @@
 # airbnb-sql
-uni task
+uni task (MySQL/PostgreSQL)
